@@ -3,7 +3,6 @@ Shadow = function(element) {
 
     return {
         shadowSelector : function(args) {
-            this.domElement = document;
             if(typeof args === 'string') {
                 let selectors = args.split(' ');
 
