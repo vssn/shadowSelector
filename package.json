@@ -1,0 +1,9 @@
+{
+  "name": "ShadowSelector",
+  "version": "1.0.0",
+  "description": "Traversing through nested webcomponents with shadow dom.",
+  "main": "index.js",
+  "repository": "https://github.com/vssn/shadowSelector",
+  "author": "Edmund Goller",
+  "license": "MIT"
+}
